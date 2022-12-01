@@ -1,0 +1,8 @@
+D:\Collage\InsertionSortDemo\bin\Debug\InsertionSortDemo.exe.config
+D:\Collage\InsertionSortDemo\bin\Debug\InsertionSortDemo.exe
+D:\Collage\InsertionSortDemo\bin\Debug\InsertionSortDemo.pdb
+D:\Collage\InsertionSortDemo\obj\Debug\InsertionSortDemo.csproj.AssemblyReference.cache
+D:\Collage\InsertionSortDemo\obj\Debug\InsertionSortDemo.csproj.SuggestedBindingRedirects.cache
+D:\Collage\InsertionSortDemo\obj\Debug\InsertionSortDemo.csproj.CoreCompileInputs.cache
+D:\Collage\InsertionSortDemo\obj\Debug\InsertionSortDemo.exe
+D:\Collage\InsertionSortDemo\obj\Debug\InsertionSortDemo.pdb
